@@ -1,6 +1,6 @@
 # 🔍 DT | Search – Discord Bot
 
-![Banner](https://imgur.com/Szexq3b.png)
+![Banner](https://imgur.com/2yH104n.png)
 
 > **🚀 Bot de recherche haute performance avec accès à 26TB de données indexées**  
 > *Recherches instantanées • API intégrée • Interface Discord intuitive*
