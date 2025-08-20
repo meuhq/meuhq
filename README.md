@@ -100,12 +100,6 @@
 2. **Choisissez votre plan** dans le canal `#pricing`
 3. **Commencez vos recherches** avec `/search`
 
-### Commandes principales
-- `/search <terme>` - Recherche globale
-- `/lookup <type> <query>` - Recherche ciblée
-- `/help` - Guide d'utilisation
-- `/api` - Documentation API
-
 ---
 
 ## 📞 Support & Communauté
