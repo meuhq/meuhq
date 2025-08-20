@@ -131,7 +131,7 @@
 **🔍 DT | Search – Votre gateway vers l'information**
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/datafr)
-[![API](https://img.shields.io/badge/API-Documentation-00d4aa?style=for-the-badge&logo=api&logoColor=white)](#)
-[![Support](https://img.shields.io/badge/Support-24h/7j-ff6b6b?style=for-the-badge&logo=support&logoColor=white)](#)
+[![API](https://img.shields.io/badge/API-Documentation-00d4aa?style=for-the-badge&logo=api&logoColor=white)](https://discord.gg/datafr)
+[![Support](https://img.shields.io/badge/Support-24h/7j-ff6b6b?style=for-the-badge&logo=support&logoColor=white)](https://guns.lol/meuhq)
 
 </div>
